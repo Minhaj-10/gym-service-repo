@@ -1,0 +1,166 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.left-c1{
+
+    flex-basis: 45%;
+}
+.right-c1{
+
+    flex-basis:45%;
+    text-align: center;
+}
+.srow1{
+    display: flex;
+    justify-content:space-between;
+}
+.img1{
+    width:80%;
+}
+.s1{
+   margin: 100px 100px 0 100px;
+}
+.left-c1 h1{
+   font-size: 50px;
+   color: black;
+   border-left: 3px solid rgb(255, 197, 5);
+   padding-left:15px;
+}
+.left-c1 p{
+    padding-top:50px;
+    padding-bottom: 30px;
+    font-size: 20px;;
+
+}
+.dt1{
+    color:rgb(255, 195, 17);
+}
+.btn1{
+    text-decoration: none;
+    background-color:rgb(255, 195, 17);
+    color: black;
+    padding: 10px;
+    border-radius:7px;
+}
+
+/**section 1 end**/
+
+.s2{
+    margin: 50px 100px 0px 100px;
+}
+.srow2 h1{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    padding-bottom: 30px;
+ }
+ .dt2{
+    font-size: 50px;
+    color:rgb(255, 195, 17);
+ }
+
+
+ .srow3{
+    display:flex;
+    justify-content:space-between;
+ }
+ .box1{
+    flex-basis: 31%;
+    background-color: #F7C93B;
+    padding:30px;
+    box-sizing: border-box;
+    box-shadow: 7px 0 5px 0 silver;
+ }
+ .box2{
+    flex-basis: 31%;
+    background-color: #F5BC0A;
+    padding:30px;
+    box-sizing: border-box;
+    box-shadow: 7px 0 5px 0 silver;
+ }
+ .box3{
+    flex-basis: 31%;
+    background-color: #F7C93B;
+    padding:30px;
+    box-sizing: border-box;
+    box-shadow: 7px 0 5px 0 silver;
+ }
+ .icon1{
+    font-size:40px;
+    padding-bottom: 10px;
+    color:aliceblue;
+ }
+ .icon2{
+    font-size:40px;
+    padding-bottom: 10px;
+    color:aliceblue;
+ }
+ .icon3{
+    font-size:40px;
+    padding-bottom:10px;
+    color:aliceblue;
+ }
+ .box1 h4{
+    font-size: 18px;
+    padding-bottom: 12px;
+ }
+ .box2 h4{
+    font-size: 18px;
+    padding-bottom: 12px;
+ }
+ .box3 h4{
+    font-size: 18px;
+    padding-bottom: 12px;
+ }
+ /**section 2 end**/
+ .s3{
+    margin: 50px 100px 0px 100px ;
+}
+.srow4{
+    display:flex;
+    justify-content:space-between;
+}
+.left-cl2{
+
+    flex-basis: 45%;
+    text-align: center;
+}
+.right-cl2{
+
+    flex-basis:45%;
+    
+}
+.img2{
+    width:80%;
+}
+.right-cl2 h1{
+    font-size: 50px;
+    color: rgb(255, 197, 5);
+    padding-left:15px;
+ }
+ .right-cl2 p{
+     padding-top:50px;
+     padding-bottom: 30px;
+     font-size: 20px;
+    }
+.btn2{
+    text-decoration: none;
+    background-color:rgb(255, 195, 17);
+     color: black;
+    padding: 10px;
+    border-radius:7px;
+
+}    
+footer{
+    background-color: #F5BC0A;
+    pading-top:10px;
+    padding-bottom: 10px;
+}
+footer p{
+    text-align: center;
+    color: white;
+
+}
+
